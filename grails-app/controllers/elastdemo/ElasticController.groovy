@@ -11,7 +11,7 @@ import static groovyx.net.http.ContentType.*
 class ElasticController {
 
     def hello() {
-        def result = [result:"Hello world2"]
+        def result = [result:"Hello world3"]
         render result as JSON
     }
 
