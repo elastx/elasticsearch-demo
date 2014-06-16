@@ -1,0 +1,7 @@
+.classpath
+.idea/
+.project
+elastdemo.iml
+elastdemo.ipr
+elastdemo.iws
+target/
